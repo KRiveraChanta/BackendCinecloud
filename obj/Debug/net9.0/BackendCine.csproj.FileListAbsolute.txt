@@ -1,0 +1,350 @@
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/appsettings.Development.json
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/appsettings.json
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/BackendCine.staticwebassets.endpoints.json
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/BackendCine
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/BackendCine.deps.json
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/BackendCine.runtimeconfig.json
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/BackendCine.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/BackendCine.pdb
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Humanizer.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/MySqlConnector.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/System.CodeDom.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/BackendCine.csproj.AssemblyReference.cache
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/BackendCine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/BackendCine.AssemblyInfoInputs.cache
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/BackendCine.AssemblyInfo.cs
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/BackendCine.csproj.CoreCompileInputs.cache
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/BackendCine.MvcApplicationPartsAssemblyInfo.cs
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/BackendCine.MvcApplicationPartsAssemblyInfo.cache
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/scopedcss/bundle/BackendCine.styles.css
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/staticwebassets.build.json
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/staticwebassets.development.json
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/BackendC.C649CFD2.Up2Date
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/BackendCine.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/refint/BackendCine.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/BackendCine.pdb
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/BackendCine.genruntimeconfig.cache
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/obj/Debug/net9.0/ref/BackendCine.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/BCrypt.Net-Next.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/dxos/Documents/Trabajos/TravelService/Backend/BackendCine/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\appsettings.json
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\BackendCine.staticwebassets.endpoints.json
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\BackendCine.exe
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\BackendCine.deps.json
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\BackendCine.runtimeconfig.json
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\BackendCine.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\BackendCine.pdb
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\BackendCine.csproj.AssemblyReference.cache
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\BackendCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\BackendCine.AssemblyInfoInputs.cache
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\BackendCine.AssemblyInfo.cs
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\BackendCine.csproj.CoreCompileInputs.cache
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\BackendCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\BackendCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\BackendCine.sourcelink.json
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\scopedcss\bundle\BackendCine.styles.css
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\BackendC.C649CFD2.Up2Date
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\BackendCine.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\refint\BackendCine.dll
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\BackendCine.pdb
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\BackendCine.genruntimeconfig.cache
+C:\Users\Dxos\source\repos\Dxos2001\BackendCine\obj\Debug\net9.0\ref\BackendCine.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\appsettings.Development.json
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\appsettings.json
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\appsettings.Production.json
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\BackendCine.staticwebassets.endpoints.json
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\BackendCine.exe
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\BackendCine.deps.json
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\BackendCine.runtimeconfig.json
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\BackendCine.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\BackendCine.pdb
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Humanizer.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\MySqlConnector.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\System.CodeDom.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\BackendCine.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\BackendCine.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\BackendCine.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\BackendCine.AssemblyInfo.cs
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\BackendCine.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\BackendCine.MvcApplicationPartsAssemblyInfo.cs
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\BackendCine.MvcApplicationPartsAssemblyInfo.cache
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\scopedcss\bundle\BackendCine.styles.css
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\staticwebassets.build.json
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\staticwebassets.development.json
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\BackendC.C649CFD2.Up2Date
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\BackendCine.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\refint\BackendCine.dll
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\BackendCine.pdb
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\BackendCine.genruntimeconfig.cache
+D:\UNIVERSIDAD AUTONOMA\CICLO 4\2.- PLATAFORMAS TECNOLÓGICAS Y CLOUD COMPUTING (Jose Manuel Guizado Castillo)\proyecto\BackendCine-Development\obj\Debug\net9.0\ref\BackendCine.dll
